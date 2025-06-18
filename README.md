@@ -7,7 +7,10 @@
 - [Service Principal Support Lab](https://aka.ms/cc/spn-lab)
 - [Power Platform CLI](https://aka.ms/pac) 
 - [X-ms-extensions](https://aka.ms/cc/extend-openAPI) 
-- [Connector AI Plugins](https://aka.ms/cc/create-ai-plugin) 
+- [Connector AI Plugins](https://aka.ms/cc/create-ai-plugin)
+
+## MCP
+- [MCP Samples](https://aka.ms/mcsmcp/samples)
 
 ## Speaker contact details
 **Mats Necker**
